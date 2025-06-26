@@ -407,8 +407,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   anchorManager: {fileID: 879309119}
-  resolveStrategy: 1
   warmUpTime: 2
+  anchorAfterResolveStrategy: {fileID: 0}
 --- !u!1001 &1333874312
 PrefabInstance:
   m_ObjectHideFlags: 0

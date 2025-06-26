@@ -168,7 +168,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: augg.io.exampleProject
     Standalone: com.Unity-Technologies.com.unity.template.urp-blank
-    iPhone: cz.augg.io.example
+    iPhone: cz.augg.io.bobapassport
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -545,6 +545,7 @@ PlayerSettings:
   - serializedVersion: 2
     m_BuildTarget: Android
     m_EncodingQuality: 1
+  m_BuildTargetGroupHDRCubemapEncodingQuality: []
   m_BuildTargetGroupLightmapSettings: []
   m_BuildTargetGroupLoadStoreDebugModeSettings: []
   m_BuildTargetNormalMapEncoding:
@@ -553,6 +554,9 @@ PlayerSettings:
   m_BuildTargetDefaultTextureCompressionFormat:
   - serializedVersion: 3
     m_BuildTarget: Android
+    m_Formats: 03000000
+  - serializedVersion: 3
+    m_BuildTarget: iOS
     m_Formats: 03000000
   playModeTestRunnerEnabled: 0
   runPlayModeTestAsEditModeTest: 0
