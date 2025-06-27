@@ -13,7 +13,7 @@
     "com.unity.xr.arcore": "6.0.5",
     "com.unity.xr.arfoundation": "6.0.5",
     "com.unity.xr.arkit": "6.0.5",
-    "cz.augg.io.sdk": "file:../Assets/augg.io/cz.augg.io.sdk-0.0.5-b1.tgz",
+    "cz.augg.io.sdk": "file:../Assets/augg.io/cz.augg.io.sdk-0.0.5-b2.tgz",
     "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
