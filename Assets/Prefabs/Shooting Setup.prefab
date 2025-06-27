@@ -1,0 +1,185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1386665395913179145
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5260433735829431615}
+  m_Layer: 0
+  m_Name: Shooting Setup
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5260433735829431615
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1386665395913179145}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.043184698, y: 0.45649803, z: -8.250532}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5043295493094859434}
+  - {fileID: 1787921883455648901}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6139509829350686449
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1787921883455648901}
+  - component: {fileID: 2855744230659442380}
+  - component: {fileID: 3652666850926893738}
+  m_Layer: 0
+  m_Name: Shooting Controller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1787921883455648901
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6139509829350686449}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.7691258, y: 0.5262368, z: -1.1638966}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5260433735829431615}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2855744230659442380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6139509829350686449}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf48ccb2b0e1fc41af2512c70b39da9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shootPoint: {fileID: 0}
+  strawTransform: {fileID: 0}
+  bobaPrefab: {fileID: 1417603152913230170, guid: 43352cf3d6e576448816af9f8916415e, type: 3}
+  minPower: 5
+  maxPower: 50
+  powerMultiplier: 0.05
+  minSwipeDistance: 45
+  maxSwipeTime: 1.5
+  touchAreaMode: 3
+  touchAreaXMin: 0.3
+  touchAreaXMax: 0.7
+  touchAreaYMin: 0.3
+  touchAreaYMax: 0.7
+  shootAngle: 60
+  useGravity: 1
+  audioSource: {fileID: 0}
+  shootSound: {fileID: 8300000, guid: b84ab55f8c545004e8d2aec5f00ce3d0, type: 3}
+  animateStraw: 1
+  animationDuration: 0.3
+  recoilDistance: 0.1
+  scaleAmount: 0.1
+  showDebugInfo: 0
+  OnPowerChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  OnShoot:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &3652666850926893738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6139509829350686449}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25742b9e03c184e4fa02e65f3bf0bcd0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showInPlayMode: 0
+  areaColor: {r: 0, g: 1, b: 0, a: 0.2}
+  borderColor: {r: 0, g: 1, b: 0, a: 0.8}
+--- !u!1001 &6808695258945360102
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 5260433735829431615}
+    m_Modifications:
+    - target: {fileID: 1981648451115184716, guid: 1b16141eeeb73e44ca6e32cf420d6fa3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1981648451115184716, guid: 1b16141eeeb73e44ca6e32cf420d6fa3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.4611324
+      objectReference: {fileID: 0}
+    - target: {fileID: 1981648451115184716, guid: 1b16141eeeb73e44ca6e32cf420d6fa3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.27209187
+      objectReference: {fileID: 0}
+    - target: {fileID: 1981648451115184716, guid: 1b16141eeeb73e44ca6e32cf420d6fa3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1981648451115184716, guid: 1b16141eeeb73e44ca6e32cf420d6fa3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1981648451115184716, guid: 1b16141eeeb73e44ca6e32cf420d6fa3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1981648451115184716, guid: 1b16141eeeb73e44ca6e32cf420d6fa3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1981648451115184716, guid: 1b16141eeeb73e44ca6e32cf420d6fa3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1981648451115184716, guid: 1b16141eeeb73e44ca6e32cf420d6fa3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1981648451115184716, guid: 1b16141eeeb73e44ca6e32cf420d6fa3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2864029130003772584, guid: 1b16141eeeb73e44ca6e32cf420d6fa3, type: 3}
+      propertyPath: m_Name
+      value: Power Indicator UI
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1b16141eeeb73e44ca6e32cf420d6fa3, type: 3}
+--- !u!4 &5043295493094859434 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1981648451115184716, guid: 1b16141eeeb73e44ca6e32cf420d6fa3, type: 3}
+  m_PrefabInstance: {fileID: 6808695258945360102}
+  m_PrefabAsset: {fileID: 0}
