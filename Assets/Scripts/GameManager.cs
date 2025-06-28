@@ -10,6 +10,7 @@ public class GameManager : MonoBehaviour
     public TextMeshProUGUI scoreTMP;
     public TriviaObjects[] questions;
     private int currentQuestionIndex = 0;
+    public GameObject canvas;
 
     [Header("Question UI")]
     public TextMeshProUGUI questionText;
@@ -71,6 +72,11 @@ public class GameManager : MonoBehaviour
         {
             UpdateTimer();
         }
+    }
+
+    private void LateUpdate()
+    {
+        canvas.SetActive(true);
     }
 
     void SetupUI()
