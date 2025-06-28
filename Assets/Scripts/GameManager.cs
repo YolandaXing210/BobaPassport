@@ -235,7 +235,6 @@ public class GameManager : MonoBehaviour
             HideAnswerTexts();
             
             // Show visual feedback on basket
-            basket.ShowCorrectFeedback();
         }
         else
         {
@@ -256,7 +255,6 @@ public class GameManager : MonoBehaviour
             HideAnswerTexts();
             
             // Show visual feedback on basket
-            basket.ShowWrongFeedback();
         }
 
         StartCoroutine(NextQuestionDelay());
@@ -277,7 +275,6 @@ public class GameManager : MonoBehaviour
         wrongUI.SetActive(false);
 
         // Reset baskets for new question
-        ResetBaskets();
 
         currentQuestionIndex++;
         if (currentQuestionIndex < questions.Length && !gameEnded)
@@ -290,17 +287,7 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    void ResetBaskets()
-    {
-        // Reset all baskets for new question
-        foreach (BasketAnswer basket in baskets)
-        {
-            if (basket != null)
-            {
-                basket.ResetForNewQuestion();
-            }
-        }
-    }
+
 
     void ShowCorrectAnswers(TriviaObjects q)
     {
@@ -351,7 +338,6 @@ public class GameManager : MonoBehaviour
         ShowResults(gameTime, accuracy);
         
         // Reset baskets for new question
-        ResetBaskets();
     }
 
     void ShowResults(float gameTime, float accuracy)
