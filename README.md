@@ -20,70 +20,70 @@ Future features to implement:
 
 ## ❓ Trivia Questions we did not get to add
 
-What do you think is the most popular flavor at Motto tea cafe?
-A. Taro Storm
-B. Motto No. 9 Milk Tea
-C. Uji Matcha Latte
-D. White Peach Tea
+1. What do you think is the most popular flavor at Motto tea cafe?
+A) Taro Storm
+B) Motto No. 9 Milk Tea
+C) Uji Matcha Latte
+D) White Peach Tea
 Answer: c) Uji Matcha Latte
 
-Which popular Taiwanese chain has a location near Pasadena City College and is known for customizable sugar and ice levels?
-a) Yi Fang
-b) A Little Tea
-c) 85°C
-d) Ten Ren
+2. Which popular Taiwanese chain has a location near Pasadena City College and is known for customizable sugar and ice levels?
+A) Yi Fang
+B) A Little Tea
+C) 85°C
+D) Ten Ren
 Answer: b) A Little Tea
 
-What’s the most Pasadena thing you could overhear someone say while holding a boba? 
+3. What’s the most Pasadena thing you could overhear someone say while holding a boba? 
 A) This boba is mid, but the vibes here are immaculate
 B) Parking took longer than the drink
 C) Bro, I just saw a Caltech student cry into a taro latte
 D) Do they validate parking? 
 
-Which fluffy souffle pancake describes you?
+4. Which fluffy souffle pancake describes you?
 A) Original (basic)
 B) Nutellamisu (sweet on the outside, slightly emo inside) 
 C) Mango Sunshine (high on life)
 D) Crème Brûlée (a lil burnt around the edges, but hanging on) 
 
-What street in Pasadena probably has the highest boba density per square mile?
-a) Colorado Blvd
-b) Fair Oaks
-c) Lake Ave
-d) Fremont Rd
+5. What street in Pasadena probably has the highest boba density per square mile?
+A) Colorado Blvd
+B) Fair Oaks
+B) Lake Ave
+D) Fremont Rd
 Answer: a) Colorado Blvd
 
-Did this really happen? You get free boba after showing a tattoo of a boba drink somewhere on your body.
+6. Did this really happen? You get free boba after showing a tattoo of a boba drink somewhere on your body.
 A) True
 B) False
 
 Post question:
 We’re not sure, but let’s make it happen folks! 
 
-How do you stab the boba cup?
-A. Centered, controlled, samurai precision
-B. With the rage of my childhood
-C. It takes me 3 tries. I panic every time
-D. I hand it to someone else to do it
+7. How do you stab the boba cup?
+A) Centered, controlled, samurai precision
+B) With the rage of my childhood
+C) It takes me 3 tries. I panic every time
+D) I hand it to someone else to do it
 
-Which drink has the most syllables in its full name on our menu (show images, not text answers)
-a) Matcha Mochi & White Peach Moonlight Milk Tea
-b) Floral Pineapple Fresh Oolong Tea
-c) Brûlée Matcha Yuki
-d) Uji Matcha Latte
+8. Which drink has the most syllables in its full name on our menu (show images, not text answers)
+A) Matcha Mochi & White Peach Moonlight Milk Tea
+B) Floral Pineapple Fresh Oolong Tea
+C) Brûlée Matcha Yuki
+D) Uji Matcha Latte
 
-What is the purpose of shaking tea in the original version of bubble tea?
-a) To froth the milk
-b) To chill the tea evenly
-c) To create “bubbles” on top
-d) To dissolve the pearls
+9. What is the purpose of shaking tea in the original version of bubble tea?
+A) To froth the milk
+B) To chill the tea evenly
+C) To create “bubbles” on top
+D) To dissolve the pearls
 Answer: c) To create “bubbles” on top
 
-What decade did boba milk tea emerge in Taiwan?
-a) 1960s
-b) 1970s
-c) 1980s
-d) 1990s
+10. What decade did boba milk tea emerge in Taiwan?
+A) 1960s
+B) 1970s
+C) 1980s
+D) 1990s
 Answer: c) 1980s
 
 ---
