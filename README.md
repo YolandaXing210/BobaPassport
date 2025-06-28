@@ -20,70 +20,71 @@ Future features to implement:
 
 ## ❓ Trivia Questions we did not get to add
 
-1. What do you think is the most popular flavor at Motto tea cafe?
-A) Taro Storm
-B) Motto No. 9 Milk Tea
-C) Uji Matcha Latte
-D) White Peach Tea
+1. What do you think is the most popular flavor at Motto tea cafe? <br>
+A) Taro Storm <br>
+B) Motto No. 9 Milk Tea <br>
+C) Uji Matcha Latte <br>
+D) White Peach Tea <br>
 Answer: c) Uji Matcha Latte
 
-2. Which popular Taiwanese chain has a location near Pasadena City College and is known for customizable sugar and ice levels?
-A) Yi Fang
-B) A Little Tea
-C) 85°C
-D) Ten Ren
+2. Which popular Taiwanese chain has a location near Pasadena City College and is known for customizable sugar and ice levels? <br>
+A) Yi Fang <br>
+B) A Little Tea <br>
+C) 85°C <br>
+D) Ten Ren <br>
 Answer: b) A Little Tea
 
-3. What’s the most Pasadena thing you could overhear someone say while holding a boba? 
-A) This boba is mid, but the vibes here are immaculate
-B) Parking took longer than the drink
-C) Bro, I just saw a Caltech student cry into a taro latte
-D) Do they validate parking? 
+3. What’s the most Pasadena thing you could overhear someone say while holding a boba? <br>
+A) This boba is mid, but the vibes here are immaculate <br>
+B) Parking took longer than the drink <br>
+C) Bro, I just saw a Caltech student cry into a taro latte <br>
+D) Do they validate parking? <br>
 
-4. Which fluffy souffle pancake describes you?
-A) Original (basic)
-B) Nutellamisu (sweet on the outside, slightly emo inside) 
-C) Mango Sunshine (high on life)
-D) Crème Brûlée (a lil burnt around the edges, but hanging on) 
+4. Which fluffy souffle pancake describes you? <br>
+A) Original (basic) <br>
+B) Nutellamisu (sweet on the outside, slightly emo inside) <br>
+C) Mango Sunshine (high on life) <br>
+D) Crème Brûlée (a lil burnt around the edges, but hanging on) <br>
 
-5. What street in Pasadena probably has the highest boba density per square mile?
-A) Colorado Blvd
-B) Fair Oaks
-B) Lake Ave
-D) Fremont Rd
-Answer: a) Colorado Blvd
+5. What street in Pasadena probably has the highest boba density per square mile? <br>
+A) Colorado Blvd <br>
+B) Fair Oaks <br>
+B) Lake Ave <br>
+D) Fremont Rd <br>
+Answer: a) Colorado Blvd <br>
 
-6. Did this really happen? You get free boba after showing a tattoo of a boba drink somewhere on your body.
-A) True
-B) False
+6. Did this really happen? You get free boba after showing a tattoo of a boba drink somewhere on your body. <br>
+A) True <br>
+B) False <br>
 
-Post question:
-We’re not sure, but let’s make it happen folks! 
+Post question: <br>
+We’re not sure, but let’s make it happen folks!
 
-7. How do you stab the boba cup?
-A) Centered, controlled, samurai precision
-B) With the rage of my childhood
-C) It takes me 3 tries. I panic every time
-D) I hand it to someone else to do it
+7. How do you stab the boba cup? <br>
+A) Centered, controlled, samurai precision <br>
+B) With the rage of my childhood <br>
+C) It takes me 3 tries. I panic every time <br>
+D) I hand it to someone else to do it <br>
 
-8. Which drink has the most syllables in its full name on our menu (show images, not text answers)
-A) Matcha Mochi & White Peach Moonlight Milk Tea
-B) Floral Pineapple Fresh Oolong Tea
-C) Brûlée Matcha Yuki
-D) Uji Matcha Latte
+8. Which drink has the most syllables in its full name on our menu (show images, not text answers) <br>
+A) Matcha Mochi & White Peach Moonlight Milk Tea <br>
+B) Floral Pineapple Fresh Oolong Tea <br>
+C) Brûlée Matcha Yuki <br>
+D) Uji Matcha Latte <br>
+Answer: a) Matcha Mochi & White Peach Moonlight Milk Tea <br>
 
-9. What is the purpose of shaking tea in the original version of bubble tea?
-A) To froth the milk
-B) To chill the tea evenly
-C) To create “bubbles” on top
-D) To dissolve the pearls
-Answer: c) To create “bubbles” on top
+9. What is the purpose of shaking tea in the original version of bubble tea? <br>
+A) To froth the milk <br>
+B) To chill the tea evenly <br>
+C) To create “bubbles” on top <br>
+D) To dissolve the pearls <br>
+Answer: c) To create “bubbles” on top <br>
 
-10. What decade did boba milk tea emerge in Taiwan?
-A) 1960s
-B) 1970s
-C) 1980s
-D) 1990s
+10. What decade did boba milk tea emerge in Taiwan? <br>
+A) 1960s <br>
+B) 1970s <br>
+C) 1980s <br>
+D) 1990s <br>
 Answer: c) 1980s
 
 ---
