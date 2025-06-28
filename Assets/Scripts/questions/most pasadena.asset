@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60cd551b752ec4e9bb48b19d96fee841, type: 3}
+  m_Name: most pasadena
+  m_EditorClassIdentifier: 
+  questionText: "What\u2019s the most Pasadena thing you could overhear someone say
+    while holding a boba? \n\n"
+  answers:
+  - 'A) This boba is mid, but the vibes here are immaculate '
+  - 'B) Parking took longer than the drink '
+  - 'C) Bro, I just saw a Caltech student cry into a taro latte '
+  - 'D) Do they validate parking?  '
+  isCorrect: 01010101
