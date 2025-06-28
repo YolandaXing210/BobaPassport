@@ -4,6 +4,7 @@ Welcome to the **Boba Trivia Shootout**, a location-based AR game built during a
 
 > 🎯 Shoot boba pearls, answer trivia, and compete for a spot on the leaderboard!
 
+Watch the demo here: https://youtu.be/Q-AMKGBxqHQ
 ---
 
 ## 🎮 Game Overview
