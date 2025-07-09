@@ -5203,6 +5203,16 @@ PrefabInstance:
       propertyPath: OutputAudioMixerGroup
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 3853527254545709421, guid: 55dd980d1a73e4b4b8ca6a355c4410ab,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3853527254545709421, guid: 55dd980d1a73e4b4b8ca6a355c4410ab,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 5854223924818516543, guid: 55dd980d1a73e4b4b8ca6a355c4410ab,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7016,7 +7026,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1029479970
 MonoBehaviour:
   m_ObjectHideFlags: 0
