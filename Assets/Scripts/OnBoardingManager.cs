@@ -181,7 +181,7 @@ public class OnboardingManager : MonoBehaviour
         // Show power game UI
         if (powerIndicatorUI != null)
         {
-            powerIndicatorUI.SetActive(true);
+          //  powerIndicatorUI.SetActive(true);
         }
         
         

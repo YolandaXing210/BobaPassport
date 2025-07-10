@@ -43,6 +43,11 @@ public class GameManager : MonoBehaviour
     public GameObject modeSelectionPanel;
     public Button timerModeButton;
     public Button freeModeButton;
+    
+    [Header("Shooting Objects")]
+    public GameObject strawObject;
+
+    public GameObject powerShootUI;
 
     [Header("Audio")]
     public AudioSource audioSource;
@@ -103,6 +108,8 @@ public class GameManager : MonoBehaviour
     {
         if (modeSelectionPanel != null)
             modeSelectionPanel.SetActive(true);
+        powerShootUI.SetActive(false);
+        strawObject.SetActive(false);
     }
 
     public void StartGameMode(bool timerMode)
@@ -112,6 +119,10 @@ public class GameManager : MonoBehaviour
         // Hide mode selection
         if (modeSelectionPanel != null)
             modeSelectionPanel.SetActive(false);
+        
+        // show shooting setup
+        powerShootUI.SetActive(true);
+        strawObject.SetActive(true);
         
         // Show/hide timer UI
         if (timerUI != null)
